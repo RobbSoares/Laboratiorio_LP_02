@@ -1,4 +1,4 @@
-<h1 align="center">Laboratorio Dois align="center"</h1>
+<h1 align="center">Laboratorio Dois 💻</h1>
 
 <h2 align="center">Exercício apresentado à disciplina Linguagem de Programação.</h2>
 
